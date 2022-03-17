@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mariyah121
+- 👋 Hi, I’m Mariyah
 - 👀 I’m interested in front end web development.
 - 🌱 I’m currently learning Javascript and Angular.
 - 💞️ I’m looking to collaborate on any projects focusing on HTML,CSS and JavaScript.
